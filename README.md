@@ -1,2 +1,4 @@
-In this repository you can find the codes used in the article: 
-IMPROVING THE RESOLUTION OF INVESTIGATION USING ERT INSTRUMENTS WITH A REDUCED NUMBER OF ELECTRODES.
+In this repository you can find the code and data used in the article: 
+
+Improving the reoslution of investigation using ert instruments with a reduced number of electrodes.
+
