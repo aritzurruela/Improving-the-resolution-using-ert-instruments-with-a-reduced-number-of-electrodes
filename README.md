@@ -1,1 +1,2 @@
-# Improving-the-resolution-using-ert-instruments-with-a-reduced-number-of-electrodes
+In this repository you can find the codes used in the article: 
+IMPROVING THE RESOLUTION OF INVESTIGATION USING ERT INSTRUMENTS WITH A REDUCED NUMBER OF ELECTRODES.
